@@ -55,3 +55,6 @@ las funcionalidades previstas de AlmaGest.
 - Diagrama de clases.
 - Diagrama de componentes.
 - Diagrama de secuencia.
+
+
+![Diagrama de casos de uso de AlmaGest](diagrama-casos-uso.png)
